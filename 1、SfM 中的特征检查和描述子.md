@@ -73,7 +73,7 @@ $$
 
 $m=\sqrt{g_x^2+g_y^2}$
 
-$\theta=\operatorname{atan2}(g_y,g_x)$
+$\theta=\\text{atan2}(g_y,g_x)$
 
 其中：
 
